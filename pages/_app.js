@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Knewton</title>
+        <title>öndë digital - custom software development company in Australia</title>
       </Head>
       <Component {...pageProps} />
       <Script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" />
