@@ -39,7 +39,7 @@ const HeroSection = () => {
             fuel your digital success.
           </div>
           <div className="mt-5 d-flex flex-column flex-sm-row ">
-            <a href="https://wa.me/qr/LL6L6AJMAGW5A1">
+            <a href="https://wa.me/message/BB5RPNJ3JI4CD1">
               <button type="button" className="hero__button button_margin">
                 Let’s Talk{" "}
               </button>

@@ -20,7 +20,7 @@ export default function WebFooter() {
             <div className="mt-2 mb-2">
               <ul
                 id="MobileNav"
-                className="mobile-nav d-flex justify-content-center"
+                className="mobile-nav d-flex justify-content-center nav-fix"
               >
                 <li>
                   <a href="#home" className="pointer">
@@ -55,6 +55,20 @@ export default function WebFooter() {
               digital transformation and unlock your true potential today.
             </h6>
           </div>
+          <div className="text-center mt-3">
+                <a href="https://www.facebook.com/" target="_blank">
+                  <i className="fa-brands fa-facebook head_icon me-3"></i>
+                </a>
+                <a href="https:///twitter.com" target="_blank">
+                  <i className="fa-brands fa-twitter head_icon me-3"></i>
+                </a>
+                <a href="https://linkedin.com" target="_blank">
+                  <i className="fa-brands fa-linkedin-in head_icon me-3"></i>
+                </a>
+                <a href="https://instagram.com" target="_blank">
+                  <i className="fa-brands fa-instagram head_icon me-3"></i>
+                </a>
+              </div>
         </div>
       </div>
       <div className="footer_hr " />

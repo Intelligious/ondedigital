@@ -45,7 +45,7 @@ const About = () => {
           Innovative IT agency crafting excellence through tech solutions. We elevate businesses with software, web design, and digital marketing expertise. Propel your success with us.
           </div>
           <div className="mt-5 d-flex flex-column flex-sm-row ">
-            <a href="https://wa.me/qr/LL6L6AJMAGW5A1">
+            <a href="https://wa.me/message/BB5RPNJ3JI4CD1">
               <button type="button" className="hero__button button_margin">
                 Let’s Talk
               </button>

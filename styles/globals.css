@@ -1023,3 +1023,6 @@ hr {
     width: 160px;
   }
 }
+.nav-fix{
+flex-wrap: wrap;
+}
