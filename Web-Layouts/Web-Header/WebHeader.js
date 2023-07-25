@@ -100,16 +100,16 @@ export default function WebHeader() {
                 </button>
               </div>
               <div className="hide_icon">
-                <a href="https://www.facebook.com/" target="_blank">
+                <a href="https://www.facebook.com/profile.php?id=100094250689352" target="_blank">
                   <i className="fa-brands fa-facebook head_icon me-3"></i>
                 </a>
-                <a href="https:///twitter.com" target="_blank">
-                  <i className="fa-brands fa-twitter head_icon me-3"></i>
+                <a href="https://www.youtube.com/@ondedigital" target="_blank">
+                  <i className="fa-brands fa-youtube head_icon me-3"></i>
                 </a>
-                <a href="https://linkedin.com" target="_blank">
+                <a href="https://www.linkedin.com/company/onde-digital/" target="_blank">
                   <i className="fa-brands fa-linkedin-in head_icon me-3"></i>
                 </a>
-                <a href="https://instagram.com" target="_blank">
+                <a href="https://www.instagram.com/ondedigital/" target="_blank">
                   <i className="fa-brands fa-instagram head_icon me-3"></i>
                 </a>
               </div>
